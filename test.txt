@@ -1,2 +1,3 @@
 My first text file
 new update to check the script
+script is running ok 
