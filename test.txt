@@ -6,3 +6,5 @@ No success
 checking again
 no suceess
 trying 1 more time
+sucess hurray
+runing jenkins job with a script
