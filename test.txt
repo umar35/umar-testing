@@ -10,3 +10,5 @@ sucess hurray
 runing jenkins job with a script
 
 final try lets find out 
+
+lets try it on another server
