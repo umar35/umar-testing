@@ -4,3 +4,5 @@ script is running ok
 checking if jenkins is running script or not
 No success
 checking again
+no suceess
+trying 1 more time
