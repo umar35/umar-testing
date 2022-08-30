@@ -10,4 +10,6 @@ whoami
 echo "The present working directory is"
 pwd
 
+echo " Ram usage details are"
+free -g
 exec bash
